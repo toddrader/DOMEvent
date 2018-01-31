@@ -1,0 +1,10 @@
+#figure {
+  border: 2px solid darkblue;
+  background-color: dodgerblue;
+  width: 100px;
+  height: 100px;
+  margin-top: 10px;
+}
+.circle {
+  border-radius:50%;
+}
